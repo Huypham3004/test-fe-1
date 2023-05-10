@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Huypham3004/test-fe-1/static/css/main.3b22e610.css",
+    "main.js": "/Huypham3004/test-fe-1/static/js/main.660ee96a.js",
+    "static/js/787.d30e2bc2.chunk.js": "/Huypham3004/test-fe-1/static/js/787.d30e2bc2.chunk.js",
+    "static/media/1.png": "/Huypham3004/test-fe-1/static/media/1.6c1890dcc88ba50c0faa.png",
+    "static/media/5.png": "/Huypham3004/test-fe-1/static/media/5.203fa58601a8321d1775.png",
+    "static/media/2.png": "/Huypham3004/test-fe-1/static/media/2.15a2abb8088b571ca796.png",
+    "static/media/9.png": "/Huypham3004/test-fe-1/static/media/9.eca18ef7d0e88f3e41bd.png",
+    "static/media/8.png": "/Huypham3004/test-fe-1/static/media/8.ef4b158de2e720283946.png",
+    "static/media/6.png": "/Huypham3004/test-fe-1/static/media/6.ba7606e0e2048dba2e5d.png",
+    "static/media/10.png": "/Huypham3004/test-fe-1/static/media/10.ffda4cbe193fc1ba3e0b.png",
+    "static/media/4.png": "/Huypham3004/test-fe-1/static/media/4.13c5b1ded4a64f219f0c.png",
+    "static/media/3.png": "/Huypham3004/test-fe-1/static/media/3.1e14cda34b1d8d1db867.png",
+    "static/media/7.png": "/Huypham3004/test-fe-1/static/media/7.57a25b9262d613c59eb0.png",
+    "static/media/logo.svg": "/Huypham3004/test-fe-1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Huypham3004/test-fe-1/index.html",
+    "main.3b22e610.css.map": "/Huypham3004/test-fe-1/static/css/main.3b22e610.css.map",
+    "main.660ee96a.js.map": "/Huypham3004/test-fe-1/static/js/main.660ee96a.js.map",
+    "787.d30e2bc2.chunk.js.map": "/Huypham3004/test-fe-1/static/js/787.d30e2bc2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b22e610.css",
+    "static/js/main.660ee96a.js"
+  ]
+}
